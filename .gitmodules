@@ -1,0 +1,3 @@
+[submodule "lib/NeuroKit"]
+	path = lib/NeuroKit
+	url = https://github.com/neuropsychology/NeuroKit.git
