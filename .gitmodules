@@ -1,3 +1,7 @@
 [submodule "lib/NeuroKit"]
 	path = lib/NeuroKit
 	url = https://github.com/neuropsychology/NeuroKit.git
+[submodule "lib/NeuroKitMod"]
+	path = lib/NeuroKitMod
+	url = https://github.com/danibene/NeuroKit.git
+	branch = feature/adapt_fixpeaks_for_large_gaps
